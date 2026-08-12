@@ -10,7 +10,8 @@ Chỉ chứa các file txt tổng hợp, không kèm thư mục nguồn (`nguon`
 | `tu_dien/2_name/Name.txt` | Tên | ~10 MB |
 | `tu_dien/3_phienam/ChinesePhienAmWords.txt` | Phiên âm | ~184 KB |
 | `tu_dien/4_pronouns/Pronouns.txt` | Đại từ | ~34 KB |
-| `tu_dien/5_luatnhan/LuatNhan.txt` | Luật nhấn | ~1 MB |
+| `tu_dien/5_luatnhan/LuatNhan.txt` | Luật nhấn (tổng hợp đầy đủ) | ~1 MB |
+| `tu_dien/5_luatnhan/LuatNhan_app.txt` | Luật nhấn bản app chạy được (24.242 luật `{0}`) | ~1 MB |
 
 ## Tải xuống
 
@@ -23,3 +24,4 @@ Chỉ chứa các file txt tổng hợp, không kèm thư mục nguồn (`nguon`
   - https://raw.githubusercontent.com/ducbui0/tong-hop-tu-dien/main/tu_dien/3_phienam/ChinesePhienAmWords.txt
   - https://raw.githubusercontent.com/ducbui0/tong-hop-tu-dien/main/tu_dien/4_pronouns/Pronouns.txt
   - https://raw.githubusercontent.com/ducbui0/tong-hop-tu-dien/main/tu_dien/5_luatnhan/LuatNhan.txt
+  - https://raw.githubusercontent.com/ducbui0/tong-hop-tu-dien/main/tu_dien/5_luatnhan/LuatNhan_app.txt

@@ -1,0 +1,17 @@
+URL TAI XUONG - TU DIEN TONG HOP (chi txt, khong kem nguon)
+=============================================================
+Repo:      https://github.com/ducbui0/tong-hop-tu-dien
+
+Tai toan bo (zip chi gom cac file txt):
+  https://github.com/ducbui0/tong-hop-tu-dien/archive/refs/heads/main.zip
+
+Tai tung file raw:
+  VietPhrase.txt  https://raw.githubusercontent.com/ducbui0/tong-hop-tu-dien/main/tu_dien/1_vp/VietPhrase.txt
+  Name.txt        https://raw.githubusercontent.com/ducbui0/tong-hop-tu-dien/main/tu_dien/2_name/Name.txt
+  ChinesePhienAmWords.txt  https://raw.githubusercontent.com/ducbui0/tong-hop-tu-dien/main/tu_dien/3_phienam/ChinesePhienAmWords.txt
+  Pronouns.txt    https://raw.githubusercontent.com/ducbui0/tong-hop-tu-dien/main/tu_dien/4_pronouns/Pronouns.txt
+  LuatNhan.txt        https://raw.githubusercontent.com/ducbui0/tong-hop-tu-dien/main/tu_dien/5_luatnhan/LuatNhan.txt
+  LuatNhan_app.txt    https://raw.githubusercontent.com/ducbui0/tong-hop-tu-dien/main/tu_dien/5_luatnhan/LuatNhan_app.txt
+
+Vi du tai bang curl:
+  curl -L -o VietPhrase.txt https://raw.githubusercontent.com/ducbui0/tong-hop-tu-dien/main/tu_dien/1_vp/VietPhrase.txt

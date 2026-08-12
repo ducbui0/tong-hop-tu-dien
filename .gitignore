@@ -3,3 +3,6 @@
 *.zip
 *.7z
 *.rar
+build/
+__pycache__/
+*.pyc
